@@ -1,0 +1,24 @@
+﻿@page
+@model KTLT.Pages.SuaLoaiSanphamModel
+@{
+    ViewData["Title"] = "Sửa loại sản phẩm";
+}
+
+<h5 class="mt-5 text-danger">CHỈNH SỬA LOẠI SẢN PHẨM</h5>
+
+
+<form method="post" class="mt-5">
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Mã loại sản phẩm</label>
+        <div class="col-sm-5">
+            <input type="text" class="form-control" id="inputEmail3" name="mcl" placeholder="Mã chủng loại" readonly value="@Model.chungLoai.MaChungLoai">
+        </div>
+    </div>
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Tên loại sản phẩm</label>
+        <div class="col-sm-5">
+            <input type="text" class="form-control" id="inputPassword3" name="tcl" placeholder="Tên chủng loại" value="@Model.chungLoai.TenChungLoai">
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Sửa loại sản phẩm</button>
+</form>

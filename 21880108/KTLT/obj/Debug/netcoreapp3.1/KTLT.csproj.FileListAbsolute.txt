@@ -1,0 +1,383 @@
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.AssemblyInfoInputs.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.AssemblyInfo.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.csproj.CoreCompileInputs.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorAssemblyInfo.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorAssemblyInfo.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\data\chungloai.json
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\data\sanpham.json
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.exe
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.deps.json
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.runtimeconfig.json
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.runtimeconfig.dev.json
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.pdb
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.Views.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.Views.pdb
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.TagHelpers.input.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.TagHelpers.output.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorCoreGenerate.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\HoaDonBH.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\HoaDonNH.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\LoaiSanpham.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Sanpham.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\SuaHoaDonBH.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\SuaHoaDonNH.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\SuaLoaiSanpham.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TaoHoaDonBH.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TaoHoaDonNH.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\ThemLoai.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\ThemSanpham.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorTargetAssemblyInfo.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorTargetAssemblyInfo.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.Views.pdb
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.csproj.CopyComplete
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\staticwebassets\KTLT.StaticWebAssets.Manifest.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\staticwebassets\KTLT.StaticWebAssets.xml
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.dll
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.pdb
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.genruntimeconfig.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\data\hoadonnhap.json
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\bin\Debug\netcoreapp3.1\data\hoadonxuat.json
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.csprojAssemblyReference.cache
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TKTonKho.cshtml.g.cs
+E:\PROJECT\CSHARP2\bt3\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TKHetHanSD.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\data\chungloai.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\data\hoadonnhap.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\data\hoadonxuat.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\data\sanpham.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.exe
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.deps.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.runtimeconfig.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.runtimeconfig.dev.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.pdb
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.Views.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\KTLT.Views.pdb
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.csproj.AssemblyReference.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.AssemblyInfoInputs.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.AssemblyInfo.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.csproj.CoreCompileInputs.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorAssemblyInfo.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorAssemblyInfo.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\staticwebassets\KTLT.StaticWebAssets.Manifest.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\staticwebassets\KTLT.StaticWebAssets.xml
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\scopedcss\bundle\KTLT.styles.css
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.TagHelpers.input.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.TagHelpers.output.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorCoreGenerate.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\HoaDonBH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\HoaDonNH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\LoaiSanpham.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Sanpham.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\SuaHoaDonBH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\SuaHoaDonNH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\SuaLoaiSanpham.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TaoHoaDonBH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TaoHoaDonNH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\ThemLoai.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\ThemSanpham.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TKHetHanSD.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TKTonKho.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorTargetAssemblyInfo.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorTargetAssemblyInfo.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.Views.pdb
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.csproj.CopyComplete
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.pdb
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\KTLT.genruntimeconfig.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Suasanpham.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\data\chungloai.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\data\hoadonnhap.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\data\sanpham.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\data\hoadonxuat.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\KTLT.exe
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\KTLT.deps.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\KTLT.runtimeconfig.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\KTLT.runtimeconfig.dev.json
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\KTLT.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\KTLT.pdb
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\KTLT.Views.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\KTLT.Views.pdb
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.csproj.AssemblyReference.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.AssemblyInfoInputs.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.AssemblyInfo.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.csproj.CoreCompileInputs.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorAssemblyInfo.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorAssemblyInfo.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\staticwebassets\KTLT.StaticWebAssets.Manifest.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\staticwebassets\KTLT.StaticWebAssets.xml
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\scopedcss\bundle\KTLT.styles.css
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.TagHelpers.input.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.TagHelpers.output.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorCoreGenerate.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\HoaDonBH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\HoaDonNH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\LoaiSanpham.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Sanpham.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\SuaHoaDonBH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\SuaHoaDonNH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\SuaLoaiSanpham.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\Suasanpham.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TaoHoaDonBH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TaoHoaDonNH.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\ThemLoai.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\ThemSanpham.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TKHetHanSD.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\TKTonKho.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorTargetAssemblyInfo.cache
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.RazorTargetAssemblyInfo.cs
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.Views.pdb
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.csproj.CopyComplete
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.dll
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.pdb
+C:\Users\QUANG\Desktop\Kỹ thuật lập trình\KTLT_1\KTLT\obj\Debug\netcoreapp3.1\KTLT.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+﻿@page
+@model KTLT.Pages.TKTonKhoModel
+@{
+    ViewData["Title"] = "Thống kê tồn kho";
+}
+
+<h5 class="mt-5 text-danger">THỐNG KÊ TỒN KHO THEO THỂ LOẠI</h5>
+
+
+<div class="mt-5">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Mã loại sản phẩm</th>
+                <th>Tên loại sản phẩm</th>
+                <th>Nhập kho</th>
+                <th>Xuất kho</th>
+                <th>Tồn kho</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.dstonkho.dsTonKho != null)
+            {
+                @for (int i = 0; i < Model.dstonkho.dsTonKho.Length; i++)
+                {
+                    <tr>
+                        <th>
+                            @Model.dstonkho.dsTonKho[i].chungloai.MaChungLoai
+                        </th>
+                        <th>
+                            @Model.dstonkho.dsTonKho[i].chungloai.TenChungLoai
+                        </th>
+                        <th>
+                            @Model.dstonkho.dsTonKho[i].SLnhap
+                        </th>
+                        <th>@Model.dstonkho.dsTonKho[i].SLxuat</th>
+                        <th>@Model.dstonkho.dsTonKho[i].Tonkho</th>
+                    </tr>
+                }
+            }
+</table>
+
+
+
+ 

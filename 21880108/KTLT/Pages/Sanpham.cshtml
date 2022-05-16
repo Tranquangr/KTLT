@@ -1,0 +1,66 @@
+﻿@page
+@model KTLT.Pages.SanphamModel
+@{
+    ViewData["Title"] = "Quản lý sản phẩm";
+}
+
+<h5 class="mt-3 text-danger">QUẢN LÝ SẢN PHẨM</h5>
+
+<div class="row mt-4">
+    <div class="col-6">
+        <form method="post">
+            <div class="input-group mb-3">
+                <input type="text" name="keyword" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="Tìm kiếm theo mã sản phẩm">
+                <input type="submit" class="input-group-text bg-dark text-light" id="inputGroup-sizing-default" value="Search" />
+            </div>
+        </form>
+       
+    </div>
+    <div class="col-6">
+        <a href="/ThemSanPham" class="btn btn-primary">Tạo mới sản phẩm</a>
+    </div>
+</div>
+
+
+<div class="mt-5">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Mã</th>
+                <th scope="col">Tên</th>
+                <th scope="col">Hạn dùng</th>
+                <th scope="col">Nhà sản xuất</th>
+                <th scope="col">Ngày sản xuất</th>
+                <th scope="col">Loại hàng</th>
+                <th scope="col">Giá</th>
+                <th scope="col">Tùy chỉnh</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.dsSp.DsSp != null)
+            {
+                @for (int i = 0; i < Model.dsSp.DsSp.Length; i++)
+                {
+                    if (Model.dsSp.DsSp[i] != null)
+                    {
+            <tr>
+                <td>@Model.dsSp.DsSp[i].Masp</td>
+                <td>@Model.dsSp.DsSp[i].Tensp</td>
+                <td>@Model.dsSp.DsSp[i].HSD.ToString("dd/MM/yyyy")</td>
+                <td>@Model.dsSp.DsSp[i].NhaSx</td>
+                <td>@Model.dsSp.DsSp[i].NgaySx.ToString("dd/MM/yyyy")</td>
+                <td>@Model.dsSp.DsSp[i].LoaiSp.TenChungLoai</td>
+                <td>@Model.dsSp.DsSp[i].gia</td>
+                <th>
+                    <a href="/SuaSanpham?code=@Model.dsSp.DsSp[i].Masp" class="btn btn-warning"><i class="fa-solid fa-pen-to-square"></i> EDIT</a>
+                    <a href="/Sanpham?act=delete&code=@Model.dsSp.DsSp[i].Masp" class="btn btn-danger"><i class="fa-solid fa-trash-can"></i> DELETE</a>
+                </th>
+            </tr>
+                    }
+
+                }
+            }
+        </tbody>
+    </table>
+</div>
+

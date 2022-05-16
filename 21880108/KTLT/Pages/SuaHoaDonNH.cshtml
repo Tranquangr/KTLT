@@ -1,0 +1,42 @@
+﻿@page
+@model KTLT.Pages.SuaHoaDonNHModel
+@{
+    ViewData["Title"] = "Sửa hóa đơn nhập hàng";
+}
+
+
+<h5 class="mt-5 text-danger">SỬA HÓA ĐƠN NHẬP HÀNG</h5>
+
+<form method="post" class="mt-5">
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Số hóa đơn</label>
+        <div class="col-sm-5">
+            <input type="text" class="form-control" id="inputEmail3" name="shd" readonly="readonly" value="@Model.hoaDonNH.SoHD">
+        </div>
+    </div>
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Sản phẩm</label>
+        <div class="col-sm-5">
+            <select id="inputState" class="form-select" name="masp">
+                <option value="" selected disabled>Chọn sản phẩm</option>
+                @if (Model.dsSanpham.DsSp != null)
+                {
+                    @for (int i = 0; i < Model.dsSanpham.DsSp.Length; i++)
+                    {
+                        <option value="@Model.dsSanpham.DsSp[i].Masp">@Model.dsSanpham.DsSp[i].Masp  ||  @Model.dsSanpham.DsSp[i].Tensp</option>
+                    }
+
+                }
+            </select>
+        </div>
+    </div>
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Số lượng</label>
+        <div class="col-sm-5">
+            <input type="text" class="form-control" id="inputEmail3" name="sl" value="">
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Sửa hóa đơn</button>
+</form>
+

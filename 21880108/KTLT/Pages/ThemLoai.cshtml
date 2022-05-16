@@ -1,0 +1,25 @@
+﻿@page
+@model KTLT.Pages.ThemLoaiModel
+@{
+    ViewData["Title"] = "Thêm loại hàng";
+}
+
+<h5 class="mt-5 text-danger">THÊM LOẠI SẢN PHẨM</h5>
+
+
+<form method="post" class="mt-5">
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Mã loại sản phẩm</label>
+        <div class="col-sm-5">
+            <input type="text" class="form-control" id="inputEmail3" name="mcl" placeholder="Mã chủng loại" required>
+        </div>
+    </div>
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Tên loại sản phẩm</label>
+        <div class="col-sm-5">
+            <input type="text" class="form-control" id="inputPassword3" name="tcl" placeholder="Tên chủng loại" required>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Thêm loại sảm phẩm</button>
+</form>
+
